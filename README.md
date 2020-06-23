@@ -2,7 +2,7 @@
 Advanced Google Dorker
 
 # Usage
-bash dork3r.sh example.com
+bash dork3r.sh example.com  
 https://www.youtube.com/watch?v=jYd5pNtE66E
 
 # Features 
